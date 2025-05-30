@@ -1,0 +1,14 @@
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\bin\Debug\net9.0\Exercicio4-aula2.exe
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\bin\Debug\net9.0\Exercicio4-aula2.deps.json
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\bin\Debug\net9.0\Exercicio4-aula2.runtimeconfig.json
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\bin\Debug\net9.0\Exercicio4-aula2.dll
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\bin\Debug\net9.0\Exercicio4-aula2.pdb
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\obj\Debug\net9.0\Exercicio4-aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\obj\Debug\net9.0\Exercicio4-aula2.AssemblyInfoInputs.cache
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\obj\Debug\net9.0\Exercicio4-aula2.AssemblyInfo.cs
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\obj\Debug\net9.0\Exercicio4-aula2.csproj.CoreCompileInputs.cache
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\obj\Debug\net9.0\Exercicio4-aula2.dll
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\obj\Debug\net9.0\refint\Exercicio4-aula2.dll
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\obj\Debug\net9.0\Exercicio4-aula2.pdb
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\obj\Debug\net9.0\Exercicio4-aula2.genruntimeconfig.cache
+C:\Users\Quinta Valentina\Desktop\LP_2025\Aula2\Exercicio4-aula2\obj\Debug\net9.0\ref\Exercicio4-aula2.dll
