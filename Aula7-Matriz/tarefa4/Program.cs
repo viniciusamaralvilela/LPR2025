@@ -1,39 +1,32 @@
-﻿using MathNet.Numerics.LinearAlgebra;
+﻿const int definir = 3;
+int[;] a = new int[definir] [definir];
 
-int[,] A = new int[,] {
-    {1, 2, 3},
-    {4, 5, 6},
-    {7, 8, 9}
-};
+Console.WriteLine("Digite os valores da matriz A:");
+for (int i; i < definir; i++) {
+    for (int j = 0; j < definir; j++) {
+        Console.Write($"Valor [{i},{j}]: ");
+        a[i, j] = int.Parse(Console.ReadLine());
+    }
+}
 
-for(int i = 0; i < A.GetLength(0); i++) {
-    for(int j = 0; j < A.GetLength(1); j++) {
-        Console.Write(A[i, j] + " ");
+int[;] a = new int[definir][definir];
+Console.WriteLine("Digite os valores da matriz b:");
+for (int i; i < definir; i++) {
+    for (int j = 0; j < definir; j++) {
+        Console.Write($"Valor [{i},{j}]: ");
+        b[i, j] = int.Parse(Console.ReadLine());
     }
-    Console.WriteLine();
 }
-int[,] B = new int[,] {
-    {9, 8, 7},
-    {6, 5, 4},
-    {3, 2, 1}
-};
-for (int i = 0; i < B.GetLength(0); i++)
-{
-    for (int j = 0; j < A.GetLength(1); j++)
-    {
-        Console.Write(A[i, j] + " ");
-    }
-    Console.WriteLine();
-}
-int c = A * B;
-Console.WriteLine("Resultado da multiplicação:");
-for (int i = 0; i < c.GetLength(0); i++)
-{
-    for (int j = 0; j < c.GetLength(1); j++)
-    {
+int[,] c = new int[definir, definir];
+Console.WriteLine("A multiplicação das matrizes é:");
+for (int i = 0; i < definir; i++) {
+    for (int j = 0; j < definir; j++) {
+        c[i, j] = 0;
+        for (int k = 0; k < definir; k++) {
+            c[i, j] += a[i, k] * b[k, j];
+        }
         Console.Write(c[i, j] + " ");
     }
     Console.WriteLine();
 }
-
 
