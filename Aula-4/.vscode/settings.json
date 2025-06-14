@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "ParOuImpar.sln",
+    "C_Cpp.errorSquiggles": "disabled"
+}

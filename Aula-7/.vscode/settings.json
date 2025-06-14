@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "MultiplicaMatriz.sln",
+    "C_Cpp.errorSquiggles": "disabled"
+}
