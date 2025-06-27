@@ -47,12 +47,13 @@ Abra o projeto no seu editor e explore as pastas de cada aula!
 
 
 📁 LPR2025
- ┣ 📂 Aula-1
- ┣ 📂 Aula-2
- ┣ 📂 Aula-4
- ┣ 📂 Aula-5
- ┣ 📂 Aula-6
- ┣ 📂 Aula-7
+ ┣ 📂 Aula1-Introducao
+ ┣ 📂 Aula2-Introducao
+ ┣ 📂 Aula4-Selecao
+ ┣ 📂 Aula5-Repeticao
+ ┣ 📂 Aula6-Funcao
+ ┣ 📂 Aula7-VetorMatriz
+ ┣ 📂 Aula8-Struct
  ┗ 📜 README.md
 
 
