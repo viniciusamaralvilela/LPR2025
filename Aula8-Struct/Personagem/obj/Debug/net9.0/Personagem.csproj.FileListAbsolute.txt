@@ -1,0 +1,14 @@
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\bin\Debug\net9.0\Personagem.exe
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\bin\Debug\net9.0\Personagem.deps.json
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\bin\Debug\net9.0\Personagem.runtimeconfig.json
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\bin\Debug\net9.0\Personagem.dll
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\bin\Debug\net9.0\Personagem.pdb
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\obj\Debug\net9.0\Personagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\obj\Debug\net9.0\Personagem.AssemblyInfoInputs.cache
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\obj\Debug\net9.0\Personagem.AssemblyInfo.cs
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\obj\Debug\net9.0\Personagem.csproj.CoreCompileInputs.cache
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\obj\Debug\net9.0\Personagem.dll
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\obj\Debug\net9.0\refint\Personagem.dll
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\obj\Debug\net9.0\Personagem.pdb
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\obj\Debug\net9.0\Personagem.genruntimeconfig.cache
+C:\Users\Nitro V15\Desktop\Aula8-Struct\Personagem\obj\Debug\net9.0\ref\Personagem.dll
