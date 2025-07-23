@@ -21,6 +21,7 @@ Este repositório reúne *códigos fonte, **exercícios resolvidos* e *materiais
 
 - 🧾 *C++ / C#* — exercícios com estrutura sequencial, condicional e repetitiva  
 - 🖥 *VS Code* — ambiente de desenvolvimento
+- 🖥 *Visual Studuo Comminity* — ambiente de desenvolvimento
 
 ---
 
@@ -54,6 +55,7 @@ Abra o projeto no seu editor e explore as pastas de cada aula!
  ┣ 📂 Aula6-Funcao
  ┣ 📂 Aula7-VetorMatriz
  ┣ 📂 Aula8-Struct
+ ┣ 📂 Aula9-ListaDicionario
  ┗ 📜 README.md
 
 

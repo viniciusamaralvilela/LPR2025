@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "ExemploLista.sln",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\bin\Debug\net9.0\IdadeMedia.exe
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\bin\Debug\net9.0\IdadeMedia.deps.json
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\bin\Debug\net9.0\IdadeMedia.runtimeconfig.json
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\bin\Debug\net9.0\IdadeMedia.dll
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\bin\Debug\net9.0\IdadeMedia.pdb
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\obj\Debug\net9.0\IdadeMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\obj\Debug\net9.0\IdadeMedia.AssemblyInfoInputs.cache
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\obj\Debug\net9.0\IdadeMedia.AssemblyInfo.cs
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\obj\Debug\net9.0\IdadeMedia.csproj.CoreCompileInputs.cache
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\obj\Debug\net9.0\IdadeMedia.dll
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\obj\Debug\net9.0\refint\IdadeMedia.dll
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\obj\Debug\net9.0\IdadeMedia.pdb
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\obj\Debug\net9.0\IdadeMedia.genruntimeconfig.cache
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\IdadeMedia\obj\Debug\net9.0\ref\IdadeMedia.dll

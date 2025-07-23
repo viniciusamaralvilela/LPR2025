@@ -1,0 +1,14 @@
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\bin\Debug\net9.0\ExemploLista.exe
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\bin\Debug\net9.0\ExemploLista.deps.json
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\bin\Debug\net9.0\ExemploLista.runtimeconfig.json
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\bin\Debug\net9.0\ExemploLista.dll
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\bin\Debug\net9.0\ExemploLista.pdb
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\obj\Debug\net9.0\ExemploLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\obj\Debug\net9.0\ExemploLista.AssemblyInfoInputs.cache
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\obj\Debug\net9.0\ExemploLista.AssemblyInfo.cs
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\obj\Debug\net9.0\ExemploLista.csproj.CoreCompileInputs.cache
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\obj\Debug\net9.0\ExemploLista.dll
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\obj\Debug\net9.0\refint\ExemploLista.dll
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\obj\Debug\net9.0\ExemploLista.pdb
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\obj\Debug\net9.0\ExemploLista.genruntimeconfig.cache
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\ExemploLista\obj\Debug\net9.0\ref\ExemploLista.dll

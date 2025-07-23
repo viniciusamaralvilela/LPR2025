@@ -1,0 +1,14 @@
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\bin\Debug\net9.0\TamanhoNome.exe
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\bin\Debug\net9.0\TamanhoNome.deps.json
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\bin\Debug\net9.0\TamanhoNome.runtimeconfig.json
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\bin\Debug\net9.0\TamanhoNome.dll
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\bin\Debug\net9.0\TamanhoNome.pdb
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\obj\Debug\net9.0\TamanhoNome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\obj\Debug\net9.0\TamanhoNome.AssemblyInfoInputs.cache
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\obj\Debug\net9.0\TamanhoNome.AssemblyInfo.cs
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\obj\Debug\net9.0\TamanhoNome.csproj.CoreCompileInputs.cache
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\obj\Debug\net9.0\TamanhoNome.dll
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\obj\Debug\net9.0\refint\TamanhoNome.dll
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\obj\Debug\net9.0\TamanhoNome.pdb
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\obj\Debug\net9.0\TamanhoNome.genruntimeconfig.cache
+C:\Users\Nitro V15\Desktop\Aula9-ListaDicionario\TamanhoNome\obj\Debug\net9.0\ref\TamanhoNome.dll
