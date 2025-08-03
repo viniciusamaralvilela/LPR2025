@@ -22,9 +22,9 @@
 - ✅ Visual Studio Community
 
 ---
-'''bash
 ## 🗂️ Project Structure
 
+```bash
 📁 LPR2025
 ├── 📁 Aula1-introducao
 ├── 📁 Aula2-introducao
@@ -34,10 +34,11 @@
 ├── 📁 Aula7-VetorMatriz
 ├── 📁 Aula8-Struct
 ├── 📁 Aula9-ListaDicionario
-└── 📄 README.md 
-'''
+├── 📄 README.md 
+└── 📄 README_en.md 
+```
 
-> Each assignment is separated into its own folder, containing the respective source code.
+> 📌 Each task is organized in its own folder, containing its respective code and resources.
 
 ---
 
