@@ -5,6 +5,7 @@
 
 ### 👨‍🏫 Professor(a):
 > José Andery
+🔗 [GitHub](https://github.com/joseandery)
 
 ---
 
@@ -44,7 +45,7 @@
 ## 👤 Autor
 
 **Vinícius Amaral Vilela**  
-🔗 [LinkedIn](https://www.linkedin.com/in/viniciusamaralvilela)
+🔗 [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-amaral-vilela-b57549362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
