@@ -25,7 +25,6 @@
 
 ## 🗂️ Project Structure
 
-```bash
 📁 LPR2025
 ├── 📁 Aula1-introducao
 ├── 📁 Aula2-introducao
