@@ -1,10 +1,10 @@
-# 📘 Tarefas de [Linguagem de Programação]
+# 📘 Tarefas de Linguagem de Programação
 
 ### 🏫 Escola/Curso:
-> [ETE "FMC" - Desenvolvimento de Sistemas]
+> ETE "FMC" - Desenvolvimento de Sistemas
 
 ### 👨‍🏫 Professor(a):
-> [José Andery]
+> José Andery
 
 ---
 
@@ -26,11 +26,14 @@
 
 ```bash
 📁 LPR2025
-├── 📁 tarefa1
-├── 📁 tarefa2
-├── 📁 tarefa3
-├── 📁 tarefa4
-├── 📁 tarefa5
+├── 📁 Aula1-introducao
+├── 📁 Aula2-introducao
+├── 📁 Aula4-Selecao
+├── 📁 Aula5-Repeticao
+├── 📁 Aula6-Funcao
+├── 📁 Aula7-VetorMatriz
+├── 📁 Aula8-Struct
+├── 📁 Aula9-ListaDicionario
 └── 📄 README.md 
 ```
 
