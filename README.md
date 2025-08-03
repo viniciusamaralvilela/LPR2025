@@ -5,7 +5,7 @@
 
 ### 👨‍🏫 Professor(a):
 > José Andery
-> 🔗 [GitHub](https://github.com/joseandery)
+- 🔗 [GitHub](https://github.com/joseandery)
 
 ---
 
