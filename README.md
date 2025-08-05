@@ -1,4 +1,3 @@
-> 🇧🇷 [Versão em português](./README.en.md)
 # 📘 Tarefas de Linguagem de Programação
 
 ### 🏫 Escola/Curso:
