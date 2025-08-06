@@ -1,3 +1,4 @@
+[Inglês](README_en.md)
 # 📘 Tarefas de Linguagem de Programação
 
 ### 🏫 Escola/Curso:
