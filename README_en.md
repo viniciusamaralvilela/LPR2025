@@ -1,3 +1,4 @@
+[Portuguese](README.md)
 # 📘 Programming Language Assignments
 
 ### 🏫 School/Course:
